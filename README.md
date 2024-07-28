@@ -1,0 +1,2 @@
+# Reinforcement Learning for Stock Trading with Stable Baselines3
+ This project demonstrates the application of reinforcement learning (RL) to stock trading using the Stable Baselines3 library. The project includes custom trading environments for Adidas, Nike, and Puma stocks, and showcases the training and evaluation of RL models using Proximal Policy Optimization (PPO) and Deep Q-Network (DQN) algorithms.
